@@ -1,0 +1,17 @@
+{
+  "name": "@darkcriminal/redwap-scraper",
+  "version": "1.0.1",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dark Criminal (Nimesh Official)",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "repository": "https://github.com/dark-criminal/redwap-scrapper.git"
+}
