@@ -25,3 +25,16 @@ async function result() {
 }
 result()
 ```
+## Sample Sucess Responses
+```js
+{
+  status: true,
+  creator: 'Nimesh Official',
+  result: {
+    title: 'Tanner Mayes fucks missionary style after 69 style oral sex',
+    image: 'https://img.redwap-cdn.com/488/488470/488470_320x180.jpg',
+    url: 'https://www.redwap.me/videos/488470/tanner-mayes-fucks-missionary-style-after-69-style-oral-sex/',
+    dllink: 'https://video.redwap-cdn.com/key=6lWN7qVzxG10vfjwAs12Xw,end=1717225631,limit=1/download2=[redwap.me] tanner_mayes_fucks_missionary_style_after_69_style_oral_sex.mp4/488470_video.mp4'
+  }
+}
+```
